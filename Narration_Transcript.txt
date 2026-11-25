@@ -1,0 +1,78 @@
+Yash Panpaliya | Gaussian Elimination Voice-over
+Read each line when SPEAK appears. Times below mark when to start talking.
+
+00:00.917  Hi, I'm Yash. Let's solve three equations with three unknowns.
+00:06.333  We will use Gaussian elimination to make the equations easier.
+00:12.667  Then we will solve for z, y, and x, in that order.
+00:19.333  These are our three starting equations.
+00:22.125  Each one gives us a different rule for x, y, and z.
+00:27.750  We need one set of values that works in all three equations.
+00:33.042  Keep the order x, y, z.
+00:37.292  Each equation makes a flat surface called a plane.
+00:41.208  Our answer must lie on all 3 planes.
+00:46.167  Watch one plane move. The common point stays in the same place.
+00:50.958  That point is our answer.
+00:55.000  We can swap rows or multiply a row by a nonzero number.
+01:00.750  We can also add a multiple of one row to another row.
+01:06.250  Each move can be undone, so the answers stay the same.
+01:14.708  Write the numbers from the equations in a matrix.
+01:19.042  The first 3 columns are the numbers in front of x, y, and z.
+01:24.792  The numbers after the line are the right-hand sides.
+01:28.583  Always include them when you change a row.
+01:32.875  The 1 at the top left is our first pivot.
+01:37.667  Use it to turn the 2 and the 3 below it into zeros.
+01:42.875  Row 1 stays the same.
+01:47.708  Subtract 2 copies of row 1 from row 2.
+01:51.000  2 minus 2 is 0.
+01:53.708  3 minus 2 is 1.
+01:56.458  1 minus 2 is −1.
+01:59.167  11 minus 12 is −1.
+02:02.625  Now, y minus z equals −1.
+02:07.000  Row 3 minus 3 times row 1.
+02:10.042  3 minus 3 is 0.
+02:12.542  2 minus 3: −1.
+02:15.000  5 minus 3 is 2.
+02:17.500  22 minus 18 is 4.
+02:20.708  The last two rows now have no x.
+02:24.792  Move one row down and one column right.
+02:29.375  The 1 in row 2 is our next pivot.
+02:34.125  We need to turn the −1 below it into 0.
+02:39.625  Add row 2 to row 3.
+02:42.833  0 plus 0 is 0.
+02:45.458  −1 plus 1 is 0.
+02:48.083  2 plus −1 is 1.
+02:50.667  4 plus −1 is 3.
+02:54.042  The last row now has just z.
+02:58.292  Look at the pivots. They form a staircase.
+03:02.542  Every number below a pivot is 0.
+03:06.958  Read the rows as equations again.
+03:11.000  We can solve them from the bottom up.
+03:16.083  Start at the bottom, where there is only one unknown.
+03:21.667  1 times z equals 3, so z is 3.
+03:26.750  Now we can use that value in the row above.
+03:33.042  The second row says y minus z is −1.
+03:39.167  Put 3 in place of z.
+03:43.000  Add 3 to both sides. That gives y equals 2.
+03:50.583  Now go to the first row. It says x plus y plus z equals 6.
+03:57.625  Put in 2 for y and 3 for z.
+04:01.417  Take away 5 from both sides. That gives x equals 1.
+04:10.417  Check the first equation. 1 plus 2 plus 3 is 6.
+04:14.750  In the second equation, 2 plus 6 plus 3 is 11.
+04:18.917  In the third equation, 3 plus 4 plus 15 is 22.
+04:23.833  All three checks pass.
+04:27.667  There is a pivot in each of the three variable columns.
+04:33.333  So none of the variables are free to change.
+04:39.000  There is exactly one answer: x is 1, y is 2, and z is 3.
+04:46.417  A row that says 0 equals 5 means there is no answer.
+04:52.292  A row of zeros adds no new rule.
+04:56.792  If the equations agree and a variable is free, there are infinitely many answers.
+05:06.083  First, use row moves that you can undo.
+05:11.042  Next, make zeros below each pivot.
+05:15.958  Then solve from the bottom up.
+05:20.917  Here we found z equals 3, y equals 2, and x equals 1.
+05:26.333  The pivot is 2 and the number below it is 4.
+05:31.417  What should we subtract? Think for a moment.
+05:35.458  Subtract 2 copies of row 1. 4 minus 2 times 2 is 0.
+05:44.083  That was Gaussian elimination. Thanks for watching.
+05:50.167  The storyboard and source code are included with this project.
+05:56.458  The references and production credits are shown here.
