@@ -1,0 +1,102 @@
+[
+  {
+    "title": "Three equations. One solution.",
+    "start": 0,
+    "duration": 18.625
+  },
+  {
+    "title": "Meet the system",
+    "start": 18.625,
+    "duration": 17.583333333333332
+  },
+  {
+    "title": "A geometric picture",
+    "start": 36.20833333333333,
+    "duration": 17.791666666666668
+  },
+  {
+    "title": "Why row operations are allowed",
+    "start": 54.0,
+    "duration": 19.791666666666668
+  },
+  {
+    "title": "Write the augmented matrix",
+    "start": 73.79166666666667,
+    "duration": 18.041666666666668
+  },
+  {
+    "title": "Choose the first pivot",
+    "start": 91.83333333333334,
+    "duration": 14.916666666666666
+  },
+  {
+    "title": "Eliminate the 2 below the pivot",
+    "start": 106.75000000000001,
+    "duration": 19.375
+  },
+  {
+    "title": "Eliminate the 3 below the pivot",
+    "start": 126.12500000000001,
+    "duration": 17.791666666666668
+  },
+  {
+    "title": "Move to the second pivot",
+    "start": 143.91666666666669,
+    "duration": 14.791666666666666
+  },
+  {
+    "title": "Create the final zero",
+    "start": 158.70833333333334,
+    "duration": 18.708333333333332
+  },
+  {
+    "title": "Read the staircase",
+    "start": 177.41666666666669,
+    "duration": 17.666666666666668
+  },
+  {
+    "title": "Back substitution: solve for z",
+    "start": 195.08333333333334,
+    "duration": 16.916666666666668
+  },
+  {
+    "title": "Back substitution: solve for y",
+    "start": 212.0,
+    "duration": 17.458333333333332
+  },
+  {
+    "title": "Back substitution: solve for x",
+    "start": 229.45833333333334,
+    "duration": 18.958333333333332
+  },
+  {
+    "title": "Verify in the original equations",
+    "start": 248.41666666666669,
+    "duration": 18.125
+  },
+  {
+    "title": "Why is the answer unique?",
+    "start": 266.5416666666667,
+    "duration": 18.875
+  },
+  {
+    "title": "Two other possible endings",
+    "start": 285.4166666666667,
+    "duration": 19.625
+  },
+  {
+    "title": "Three ideas to remember",
+    "start": 305.0416666666667,
+    "duration": 20.625
+  },
+  {
+    "title": "Try one step yourself",
+    "start": 325.6666666666667,
+    "duration": 16.916666666666668
+  },
+  {
+    "title": "Credits & project disclosure",
+    "start": 342.58333333333337,
+    "duration": 21.666666666666668
+  }
+]
